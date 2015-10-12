@@ -23,6 +23,9 @@ Gets the system's bootup time in UTC.
 
 Gets the list of installed application from the system.
 
+#### `Get-Drivers-List`
+
+Get the list of installed drivers on a system.
 
 TODO
 ----
