@@ -19,7 +19,7 @@ Ideally i will be able to port most of my scripts so that it can be used to perf
 
 Gets the system's bootup time in UTC.
 
-#### `Get-Bootup-UTCTime`
+#### `Get-Installed-Apps`
 
 Gets the list of installed application from the system.
 
