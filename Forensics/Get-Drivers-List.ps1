@@ -17,7 +17,7 @@ Get the list of installed drivers on a system.
 #>
 
     [OutputType([String])]
-    $DriverList = Get-WindowsDriver –Online -All | select OriginalFileName, ProviderName, Version | Format-Table –AutoSize
+    $DriverList = Get-WindowsDriver â€“Online -All | Select-Object OriginalFileName, ProviderName, Version | Format-Table â€“AutoSize
     Write-Output "The number of drivers on this system is:" $DriverList.count
     Write-Output $DriverList
 }
