@@ -36,6 +36,11 @@ Get the list of installed drivers on a system.
 
 Retrieves the Windows Product key.
 
+#### `Get-Installed-Updates`
+
+Gets the list of installed Windows updates on the system.
+
+
 TODO
 ----
 * Keep adding more tools...
