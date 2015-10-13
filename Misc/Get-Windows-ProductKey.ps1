@@ -1,4 +1,21 @@
-Function Get-Windows-ProductKey{
+Function Get-Windows-ProductKey
+{
+    
+<#
+.SYNOPSIS
+Retrieves the Windows product key from the system.
+Author: Jacob Soo (@jacobsoo)
+License: BSD 3-Clause
+Required Dependencies: None
+Optional Dependencies: None
+.DESCRIPTION
+Retrieves the Windows product key from the system.
+.EXAMPLE
+PS C:\>Get-Windows-ProductKey
+Description
+-----------
+Retrieves the Windows product key from the system.
+#>
     Param(
         [Parameter(Mandatory=$true)]
         [ValidateNotNullOrEmpty()]
