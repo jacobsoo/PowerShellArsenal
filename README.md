@@ -19,13 +19,17 @@ Ideally i will be able to port most of my scripts so that it can be used to perf
 
 Gets the system's bootup time in UTC.
 
+#### `Get-Drivers-List`
+
+Get the list of installed drivers on a system.
+
 #### `Get-Installed-Apps`
 
 Gets the list of installed application from the system.
 
-#### `Get-Drivers-List`
+#### `Get-Winlogon-View`
 
-Get the list of installed drivers on a system.
+Retrieves the date/time that users logged on and logged off on the system.
 
 
 ## Misc
