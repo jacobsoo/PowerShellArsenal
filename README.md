@@ -27,6 +27,13 @@ Gets the list of installed application from the system.
 
 Get the list of installed drivers on a system.
 
+
+## Misc
+
+** Some misc. functions which might come in handy.**
+
+#### `Get-Windows-ProductKey`
+
 TODO
 ----
 * Keep adding more tools...
