@@ -34,6 +34,8 @@ Get the list of installed drivers on a system.
 
 #### `Get-Windows-ProductKey`
 
+Retrieves the Windows Product key.
+
 TODO
 ----
 * Keep adding more tools...
