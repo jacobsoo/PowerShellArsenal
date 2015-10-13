@@ -30,7 +30,7 @@ Get the list of installed drivers on a system.
 
 ## Misc
 
-** Some misc. functions which might come in handy.**
+**Some misc. functions which might come in handy.**
 
 #### `Get-Windows-ProductKey`
 
